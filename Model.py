@@ -101,7 +101,7 @@ def calculate_score():
 # Build the GUI
 # ------------------
 root = tk.Tk()
-root.title("Odds Apex - Golf Model")
+root.title("Odds Apex - Model")
 
 # Input fields
 fields = [
