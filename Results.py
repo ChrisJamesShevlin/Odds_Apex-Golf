@@ -87,7 +87,7 @@ def calculate_lays():
 
 # Build GUI
 tk_root = tk.Tk()
-tk_root.title("Golf Lay Calculator")
+tk_root.title("Odds Apex - Results")
 
 # Input
 tk.Label(tk_root, text="Paste your model output here:").grid(row=0, column=0, sticky="w", padx=4, pady=4)
